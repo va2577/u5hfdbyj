@@ -1,0 +1,22 @@
+{
+  "name": "u5hfdbyj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gray-matter": "^4.0.2",
+    "markdown-it": "^10.0.0",
+    "nuxt": "^2.11.0",
+    "raw-loader": "^4.0.0"
+  }
+}

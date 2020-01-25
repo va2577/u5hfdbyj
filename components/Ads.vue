@@ -1,0 +1,20 @@
+<template>
+  <aside>
+    <div>広告</div>
+    <div>
+      <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+      <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9305907051774965" data-ad-slot="2028899530" data-ad-format="auto"></ins>
+      <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
+    </div>
+  </aside>
+</template>
+
+<style scoped>
+  aside {
+    margin-bottom: 2.5rem;
+    margin-top: 2.5rem;
+  }
+</style>
