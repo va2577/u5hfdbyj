@@ -16,7 +16,7 @@
   "dependencies": {
     "gray-matter": "^4.0.2",
     "markdown-it": "^10.0.0",
-    "nuxt": "^2.11.0",
+    "nuxt": "^2.15.8",
     "raw-loader": "^4.0.0"
   }
 }
